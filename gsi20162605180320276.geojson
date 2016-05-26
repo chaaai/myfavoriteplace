@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RISE",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40125823020935,
+            35.568085183307794
+          ],
+          [
+            139.40107583999634,
+            35.5682422709947
+          ],
+          [
+            139.40117239952087,
+            35.56829026994872
+          ]
+        ]
+      }
+    }
+  ]
+}
